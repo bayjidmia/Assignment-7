@@ -50,7 +50,7 @@
     "description": "Customer requested a refund two weeks ago but has not received the amount yet.",
     "customer": "Sophia Taylor",
     "priority": "MEDIUM PRIORITY",
-    "status": "In Progress",
+    "status": "In- Progress",
     "createdAt": "1/20/2024"
   },
   {

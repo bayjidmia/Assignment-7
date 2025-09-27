@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div>
             <div class=" bg-base-100 shadow-sm mb-8">
-              <div className='max-w-[1200px] p-5 mx-auto flex'>
+              <div className='max-w-[1440px] p-5 mx-auto flex'>
                     
                <div class="navbar-start">
     <div class="dropdown">
